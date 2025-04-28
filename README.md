@@ -63,10 +63,3 @@ pip install torch numpy scikit-learn networkx
 
 ---
 
-## Citation
-If you find this code useful in your research, please cite the following paper:
-
-> Qingwen Chen, Kaito Fukui, Hiroaki Santo, Fumio Okura, Takeshi Yamada, Kazuhiko Nakatani, Yasuyuki Matsushita.  
-> *Efficiently Utilizing Molecular Descriptors in Graph Convolutional Neural Networks for Small Molecule Drug Discovery.*
-
----
