@@ -3,8 +3,8 @@
 This repository contains the code accompanying the manuscript:
 
 **Efficiently Utilizing Molecular Descriptors in Graph Convolutional Neural Networks for Small Molecule Drug Discovery**  
-Qingwen Chen\*¹, Kaito Fukui\*², Hiroaki Santo², Fumio Okura², Takeshi Yamada³, Kazuhiko Nakatani¹, Yasuyuki Matsushita²  
-\*Equal contribution  
+Qingwen Chen¹,\* Kaito Fukui² Hiroaki Santo² Fumio Okura² Takeshi Yamada¹,³ Kazuhiko Nakatani¹ Yasuyuki Matsushita²,\*  
+\*Corresponding authors  
 
 ¹ SANKEN, The University of Osaka, Mihogaoka 8-1, Ibaraki, Osaka, 567-0047, JAPAN  
 ² Graduate School of Information Science and Technology, The University of Osaka, Yamadaoka 1-5, Suita, 565-0871, JAPAN  
