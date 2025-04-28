@@ -17,6 +17,10 @@ Small molecule drug discovery remains a key therapeutic strategy for treating va
 
 **Keywords**: small molecule, drug discovery, GCNN, molecular descriptors
 
+
+![image](https://github.com/user-attachments/assets/f90c4f15-6808-4f89-bbc8-4f8cd0a8d6fd)
+
+
 ---
 
 ## Table of Contents
