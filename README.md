@@ -23,8 +23,7 @@ Small molecule drug discovery remains a key therapeutic strategy for treating va
 - [Overview](#overview)
 - [Scripts](#scripts)
 - [Requirements](#requirements)
-- [Usage](#usage)
-- [License](#license)
+
 
 ---
 
