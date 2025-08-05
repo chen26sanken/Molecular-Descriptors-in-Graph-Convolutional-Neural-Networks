@@ -1,4 +1,4 @@
-# Efficiently Utilizing Molecular Descriptors in Graph Convolutional Neural Networks for Small Molecule Drug Discovery
+# Molecular Descriptors in Graph Convolutional Neural Networks for Small Molecule Drug Discovery
 
 This repository contains the code accompanying the manuscript:
 
